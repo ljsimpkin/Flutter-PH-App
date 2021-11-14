@@ -3,7 +3,7 @@
 ## Getting Started
 
 Try it out here on flutlab:
-https://api.flutlab.io/res/projects/355354/zfehoijjr6hud2sqcafq/index.html#/
+https://ljsimpkin.github.io/flutter-web-deploy
 
 This app teaches people about the importance of pH. Built using flutter and includes dynamic elements. 
 
